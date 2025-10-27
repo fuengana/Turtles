@@ -1,4 +1,4 @@
-# Turtle Spiral 
+# Recursive Spiral 
 
 This project uses Python's built-in **turtle graphics** module to draw a colorful spiral pattern.  
 It's a simple but cool way to explore loops, geometry, and visual creativity with with Python.
