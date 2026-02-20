@@ -5,6 +5,6 @@ It's a simple but cool way to explore loops, geometry, and visual creativity wit
 
 
 ## Preview
-Running the script will generate a spiral made up of repeating shapes and colors, similar to digital art created by a spirograph.
+Running the script will generate a spiral made up of repeating shapes and colors from the classic RGB values similar to digital art created by a spirograph.
 
 ![Turtles](Image-Header/Turtles.gif)
