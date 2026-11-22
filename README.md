@@ -16,9 +16,6 @@ It's a simple but cool way to explore loops, geometry, and visual creativity wit
 <br> Green is Marijuana Alone <br> 
 <br> Design Implication is Lighting Principle, Sun Babylonian Fall <br> 
 <br> Four Akashic Touch Builds, Pads From Women, Farm Work, Da Vinci Rig For Personalities, Days of The Week, Homework, RGB Code, Jobs, Red White and Blue, Cornell University Official Transcript, Grades By Race, 144 Where Grades are Listed For Preview For Minis <br>
-
-<br>
-
 <Br> Trigger Warning, Extreme Virtual Reality, Homosexuality, LGBT+ <Br>
 
 ## Preview
