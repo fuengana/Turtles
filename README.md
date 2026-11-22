@@ -13,6 +13,8 @@ It's a simple but cool way to explore loops, geometry, and visual creativity wit
 <br> Known: Complex Body, Complex Body Where Anything on The Far End of Marijuana is a Complex Body <br> 
 <br> Lemon Cut Into is Still Circle Seen In Another Dimensions Where Fruits Are Accessed By the Knowledge of Color <br> 
 <br> On Two Far Ends Where Astrology is Seen as the Definite 3 Making a 12, Twins Are All Pulley Lever Systems <br> 
+<br> A Color Match is Really A Stripe By Any Connotation of Money Where You Pay For the Goods You Have By Reading a Banner <br> 
+
 <br> Design Implication is Lighting Principle, Sun Babylonian Fall <br> 
 
 ## Preview
