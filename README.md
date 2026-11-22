@@ -7,6 +7,8 @@ It's a simple but cool way to explore loops, geometry, and visual creativity wit
 <br> Red: Tree  <br> 
 <br> Blue: Leaf <br> 
 <br> Blue and Green Switched Around For Tree and Leaf As Numpy Otherwise Green Then Blue and Numbers are As is Such as Money <br> 
+<br> Apple Fruits Supplements for Any RBG, and the Perfectly Placed RGB is Cornell University School of Agriculture Information Science<br>
+<br> Cornell University School of Agriculture and Life Sciences Does Not Have a Computer Science Program <br>
 <br> Green: Marijuana <br> 
 <br> Design Implication is Lighting Principle, Sun Babylonian Fall <br> 
 
