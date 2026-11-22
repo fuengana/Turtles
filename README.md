@@ -15,6 +15,7 @@ It's a simple but cool way to explore loops, geometry, and visual creativity wit
 <br> A Color Match is Really A Stripe By Any Connotation of Money Where You Pay For the Goods You Have By Reading a Banner <br> 
 <br> Green is Marijuana Alone <br> 
 <br> Design Implication is Lighting Principle, Sun Babylonian Fall <br> 
+<br> Four Akashic Touch Builds, Pads From Women, Farm Work, Da Vinci Rig For Personalities, Days of The Week, Homework, RGB Code, Jobs, Red White and Blue, Cornell University Official Transcript, Grades By Race, 144 <br>
 
 ## Preview
 Running the script will generate a spiral made up of repeating shapes and colors from the classic RGB values similar to digital art created by a spirograph.
