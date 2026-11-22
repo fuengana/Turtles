@@ -1,7 +1,6 @@
 # Recursive Spiral 
 
-This project uses Python's built-in **turtle graphics** module to draw a colorful spiral pattern.  
-It's a simple but cool way to explore loops, geometry, and visual creativity with with Python. Cursor as Black Accounts for Full Deletion Function, “White Space Cursor” Fatness Rule, Nahbuma Fuenanji Gana is the only person who taught the people about the Asian Government.
+This project uses Python's built-in **turtle graphics** module to draw a colorful spiral pattern. Gemini, Spiral, Sparkle, It's a simple but cool way to explore loops, geometry, and visual creativity with with Python. Cursor as Black Accounts for Full Deletion Function, “White Space Cursor” Fatness Rule, Nahbuma Fuenanji Gana is the only person who taught the people about the Asian Government.
 <br> Black: Cursor <br> 
 <br> Red: Tree  <br> 
 <br> Blue: Leaf <br> 
