@@ -16,7 +16,7 @@ It's a simple but cool way to explore loops, geometry, and visual creativity wit
 <br> Green is Marijuana Alone <br> 
 <br> Design Implication is Lighting Principle, Sun Babylonian Fall <br> 
 <br> Four Akashic Touch Builds, Pads From Women, Farm Work, Da Vinci Rig For Personalities, Days of The Week, Homework, RGB Code, Jobs, Red White and Blue, Cornell University Official Transcript, Grades By Race, 144 Where Grades are Listed For Preview For Minis <br>
-<Br> Trigger Warning, Extreme Virtual Reality, Homosexuality, LGBT+ <Br>
+<Br> Trigger Warning, Extreme Virtual Reality Programming, Homosexuality, LGBT+, All 360 in Augmented Reality Programming <Br>
 <br> 144 is Past All Dreams and Without Them Due to GPA 3.14, Pi is the minute of day where all dreams are accounted for, right when you get back home from school <br>
 <br> All Time Resets For Soulmates at the Civil War Vault as Proof Where All Other Nomenclature is Breast, Chest and Legs Information and What the Changing Races Like <br>
 
