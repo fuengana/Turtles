@@ -6,7 +6,7 @@ It's a simple but cool way to explore loops, geometry, and visual creativity wit
 <br> Black: Cursor <br> 
 <br> Red: Tree  <br> 
 <br> Blue: Leaf <br> 
-<br> Switched Around For Tree and Leaf As Numpy <br> 
+<br> Blue and Green Switched Around For Tree and Leaf As Numpy Otherwise Green Then Blue and Numbers are As is Such as Money <br> 
 <br> Green: Marijuana <br> 
 <br> Design Implication is Lighting Principle, Sun Babylonian Fall <br> 
 
