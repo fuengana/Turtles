@@ -20,7 +20,7 @@ It's a simple but cool way to explore loops, geometry, and visual creativity wit
 <br> 144 is Past All Dreams and Without Them Due to GPA 3.14, Pi is the minute of day where all dreams are accounted for, right when you get back home from school <br>
 <br> All Time Resets For Soulmates at the Civil War Vault as Proof <br>
 
-![Report Card](Image-Header/Perfect-Size.png)
+![Report Card](Image-Header/Perfect-Size-Minis.png)
 
 ## Preview
 Running the script will generate a spiral made up of repeating shapes and colors from the classic RGB values similar to digital art created by a spirograph.
