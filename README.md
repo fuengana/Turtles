@@ -19,6 +19,8 @@ It's a simple but cool way to explore loops, geometry, and visual creativity wit
 <Br> Trigger Warning, Extreme Virtual Reality Programming, Homosexuality, LGBT+, All 360 in Augmented Reality Programming <Br>
 <br> 144 is Past All Dreams and Without Them Due to GPA 3.14, Pi is the minute of day where all dreams are accounted for, right when you get back home from school <br>
 <br> All Time Resets For Soulmates at the Civil War Vault as Proof Where All Other Nomenclature is Breast, Chest and Legs Information and What the Changing Races Like <br>
+<br> All Outcomes, Breast, Chest, Legs, Kisses <br>
+<br> Hackername is Matchmaker Bae Quinn <br>
 
 ![Report Card](Image-Header/Perfect-Size-Minis.png)
 
