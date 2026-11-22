@@ -10,6 +10,8 @@ It's a simple but cool way to explore loops, geometry, and visual creativity wit
 <br> Apple Fruits Supplements for Any RBG, and the Perfectly Placed RGB is Cornell University School of Agriculture Information Science<br>
 <br> Cornell University School of Agriculture and Life Sciences Does Not Have a Computer Science Program <br>
 <br> Green: Marijuana <br> 
+<br> Known: Complex Body, Complex Body Where Anything on The Far End of Marijuana is a Complex Body <br> 
+<br> Lemon Cut Into is Still Circle Seen In Another Dimensions Where Fruits Are Accessed By the Knowledge of Color <br> 
 <br> Design Implication is Lighting Principle, Sun Babylonian Fall <br> 
 
 ## Preview
